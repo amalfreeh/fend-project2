@@ -3,7 +3,7 @@
 
 * [Instructions](#instructions)
  * [Resources ](#Resources)
-* [Contributing](#contributing)
+
 
 ## Instructions
 
